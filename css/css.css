@@ -1,0 +1,303 @@
+@charset "utf-8";
+.bg-navbar {
+    background-color: #000000;
+}
+.tx-pianopiano {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.p-6 {
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.text-transp {
+    color: hsla(0,0%,100%,0.36);
+}
+
+
+.tx-navbar {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    font-style: normal;
+    font-weight: 400;
+}
+.imagenjumbo {
+    background-size: cover;
+    background-position: 0 50%;
+    background-image: url(../imagenes/imagenjumbo1.jpg);
+}
+
+
+
+.bg-body {
+    background-color: #000000;
+}
+.ml-45 {
+    margin-right: 210px;
+    padding-right: 0px;
+}
+.align-right {
+    text-align: right;
+}
+
+.bg-jumbotron {
+    background-color: hsla(0,0%,0%,0.85);
+    color: hsla(0,0%,100%,1.00);
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    /* [disabled]margin-right: 210px; */
+    height: 439px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
+.bg-jumo {
+    background-color: hsla(0,0%,0%,0.82);
+    color: hsla(0,0%,100%,1.00);
+    border-radius: 4px;
+    text-align: center;
+}
+.bg-jumpo {
+    background-color: hsla(0,0%,0%,0.82);
+    color: hsla(0,0%,100%,1.00);
+    border-radius: 4px;
+    padding-top: 28px;
+    padding-right: 28px;
+    padding-bottom: 28px;
+    padding-left: 28px;
+    text-align: center;
+    margin-left: 1px;
+}
+.bg-conta {
+    background-image: url(../imagenes/contatco.jpg);
+    background-size: cover;
+    background-position: 0% 40%;
+}
+
+.ml-6 {
+    margin-left: 75px;
+}
+
+
+.mt-45 {
+    margin-top: 27px;
+}
+.bg-rojo {
+    background-color: #BAA699;
+}
+.productosrecom {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    color: #000000;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 31px;
+}
+.pizzastit {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #000000;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 75px;
+}
+.italientumesa {
+    color: rgba(0,0,0,1.00);
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    font-style: italic;
+    font-weight: 200;
+    text-align: right;
+    line-height: 69px;
+    font-size: 20px;
+}
+.bg-fotindx {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-right: 0px;
+    margin-right: -12px;
+}
+.bg-fotis {
+    margin-bottom: 30px;
+    margin-top: -30px;
+}
+.tx-card {
+    font-size: 15px;
+}
+.tx-cardtit {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+}
+.tx-carrutit {
+    font-size: 26px;
+    font-weight: bolder;
+    line-height: 20px;
+}
+.tx-carrutex {
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+.mt-6 {
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-left: 11px;
+}
+
+.cursivapeq {
+    font-size: 27px;
+    font-weight: 300;
+    white-space: normal;
+    vertical-align: 10px;
+    margin-top: -19px;
+    text-align: center;
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    font-style: italic;
+}
+.jumbott {
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+.strongmed {
+    font-weight: 800;
+    text-align: center;
+    font-size: 55px;
+}
+.tx-blanco {
+    color: hsla(0,0%,100%,1.00);
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    font-size: medium;
+}
+.ofeset {
+    margin-left: 58px;
+}
+.bg-fotetiq {
+    background-color: #000000;
+}
+.mgcard {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+.m-card {
+    padding-top: 27px;
+    padding-right: 40px;
+    padding-bottom: 27px;
+    padding-left: 40px;
+}
+.frase {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    color: #000000;
+    background-color: #BAA699;
+    font-size: 22px;
+    font-style: italic;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.pizzas {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    color: #FFFFFF;
+    background-color: #000000;
+    font-size: 22px;
+    font-style: italic;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.palabras {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    color: #000000;
+    background-color: #BAA699;
+    font-size: 22px;
+    font-style: italic;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+.colaps {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    color: #000000;
+    background-color: #BAA699;
+    font-weight: 300;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bg-claro {
+    background-color: #BAA699;
+}
+.bg-oscuro {
+    background-color: #000000;
+}
+.m-histo {
+    margin-top: 128px;
+    margin-bottom: 128px;
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+
+}
+.m-neg {
+    margin-top: 128px;
+    margin-bottom: 128px;
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    color: #000000;
+
+}
+.tx-histo {
+    font-weight: bold;
+}
+.tx-alta {
+    font-weight: bold;
+    text-align: right;
+}
+.tx-colaps {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    font-weight: bold;
+    font-size: 30px;
+}
+.poema {
+    margin-top: 170px;
+    margin-bottom: 170px;
+    color: #000000;
+    font-style: italic;
+
+
+}
+.poema2 {
+    margin-top: 194px;
+    margin-bottom: 194px;
+    font-style: italic;
+
+
+}
+.right_article {
+}
+.m-pizza {
+}
+.estres {
+    padding-bottom: 0px;
+    margin-bottom: -53px;
+}
+.estres2 {
+    padding-bottom: 0px;
+}
+.titcon {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    font-weight: bold;
+}
+.texcon {
+    font-family: Inter, "Inter Black", "Inter ExtraBold", "Inter ExtraLight", "Inter Light", "Inter Medium", "Inter Thin", "Inter SemiBold";
+    font-weight: 400;
+    font-size: 15px;
+}
